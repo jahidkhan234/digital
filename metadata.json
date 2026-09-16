@@ -1,0 +1,8 @@
+{
+  "name": "Digital MLM Platform",
+  "description": "A comprehensive digital platform with user accounts, admin panel, mobile recharge, and investment plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
